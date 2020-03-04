@@ -17,7 +17,7 @@ namespace UptimeCheckerWorkerService
                 .MinimumLevel.Debug()
                 .MinimumLevel.Override("Microsoft", LogEventLevel.Warning)
                 .Enrich.FromLogContext()
-                .WriteTo.File(@"logfiles\log.txt")
+                .WriteTo.File(@"C:\WorkerServiceLogs\logfile.txt")
                 .CreateLogger();
 
             try
