@@ -1,0 +1,6 @@
+2020-03-04 20:28:09.476 +06:00 [INF] Starting the service
+2020-03-04 20:28:12.189 +06:00 [INF] The website is running. Status code OK
+2020-03-04 20:28:17.445 +06:00 [INF] The website is running. Status code OK
+2020-03-04 20:28:22.689 +06:00 [INF] The website is running. Status code OK
+2020-03-04 20:28:27.930 +06:00 [INF] The website is running. Status code OK
+2020-03-04 20:28:33.174 +06:00 [INF] The website is running. Status code OK
